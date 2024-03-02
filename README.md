@@ -1,2 +1,2 @@
 # Mxv-Project
-Gsap horizontal scroll. 
+Gsap scroll. 
